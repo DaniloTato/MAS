@@ -13,6 +13,39 @@ Group 301
 
 _November 06, 2025_
 
+# Team composition
+
+**Sebas Certuche**: Strong background in algorithms, optimization, and programming logic, good analytical thinking and problem solving skills. Area of opportunity: improve time management and delegation within group work.
+
+**Faisal Alali:** Creative and visual thinker with good skills in 3D modeling and adept in multiple engineering areas. Area of opportunity: deepen understanding of programming logic and AI agent behavior.
+
+**José Yael Varela García**: Effective communicator and team organizer, skilled at coordinating tasks and maintaining group cohesion. Area of opportunity: strengthen technical proficiency in Unity, Blender and programming.
+
+**Sebastián Alejandro Soria Piñuela**: Focused and detail-oriented, capable of debugging and testing system performance. Area of opportunity: improve documentation and presentation of technical results.
+
+**Danilo Paolo Tato Velázquez**: Strong interest in artificial intelligence and autonomous systems and programming. Good at conceptualizing multi-agent interactions. Area of opportunity: gain more experience with 3D simulation tools such as Blender.
+
+# Team expectation
+
+* Learn how to create virtual environments using Unity and Blender.  
+* Understand, learn and apply concepts of multi-agent systems to simulate autonomous behavior in agricultural contexts.  
+* Develop a prototype capable of detecting and managing anomalies in crops through intelligent agents.
+
+# Goals and Commitments
+
+**Goals**
+
+* Design and implement a multi-agent system that can autonomously identify plant anomalies and execute management actions.  
+* Model the interaction and communication between multiple intelligent agents to detect, decide and realize actions to improve the response time within the simulation.  
+* Create a coherent greenhouse simulation that reflects the problem that crops such as strawberry or tomato has in Jalisco.
+
+**Commitments**
+
+* Maintain consistent communication and accountability among team members.  
+* Divide tasks according to individual strengths to ensure a good balance within the team.  
+* Continuously document, and develop the simulation to meet project requirements within the due dates of the reviews.  
+* Support one another for the development of the project and our skills.
+
 # Description of the Challenge
 
 The challenge consists of developing a multi-agent system in Unity capable of autonomously identifying and classifying tomatoes as good or bad based on their visible characteristics (such as color, spots, or surface damage). Each agent will navigate through an environment, detecting and avoiding obstacles while approaching tomatoes, analyzing them, and deciding their condition. Once classified, the agents will pick up each tomato and place it in the corresponding box, coordinating their movements to prevent collisions, bottlenecks, and overlaps. The simulation highlights how multiple agents can combine perception, decision-making, navigation, and collaboration to perform a sorting task efficiently in a dynamic, obstacle-filled scenario.
