@@ -107,3 +107,5 @@ Build/*
 # Collaboration tools
 # ======================================
 .collabignore
+
+.clangd
