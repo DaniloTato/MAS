@@ -1,0 +1,141 @@
+# =============== #
+# Unity generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+ExportedObj/
+.consulo/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.obj
+*.apk
+*.aab
+*.unitypackage
+
+# =============== #
+# Asset Store     #
+# =============== #
+*.unitypackage
+
+# =============== #
+# Addressables    #
+# =============== #
+/Assets/AddressableAssetsData/*/*.bin
+/Assets/AddressableAssetsData/*/*.hash
+/Assets/AddressableAssetsData/*/*.json
+
+# =============== #
+# Cache           #
+# =============== #
+/Assets/StreamingAssets/aa/*
+/AssetBundleBrowser/AssetBundleBrowser.dll
+/AssetBundles/
+
+# =============== #
+# Collab/Plastic  #
+# =============== #
+/**/PlasticSCM/
+.plastic/
+
+# =============== #
+# Crash Reports   #
+# =============== #
+sysinfo.txt
+
+# =============== #
+# macOS specific  #
+# =============== #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# =============== #
+# Windows specific #
+# =============== #
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =============== #
+# Linux specific  #
+# =============== #
+*~
+.nfs*
+
+# =============== #
+# JetBrains Rider #
+# =============== #
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# =============== #
+# VS Code         #
+# =============== #
+.vscode/
+.history/
+
+# =============== #
+# TextMeshPro     #
+# =============== #
+/Assets/TextMesh Pro/Resources/Font Assets/*.asset
+
+# =============== #
+# Visual Studio   #
+# =============== #
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pdb
+*.cache/
+.vs/
+
+# =============== #
+# Logs            #
+# =============== #
+*.log
+logs/
+Logs/
+
+# =============== #
+# Builds          #
+# =============== #
+*.apk
+*.aab
+*.ipa
+*.exe
+*.app
+
+# =============== #
+# Unity Cache     #
+# =============== #
+/Library/
